@@ -749,5 +749,3 @@ def loop_jogo():
 menu_jogo()
 pygame.quit()
 quit()
-
-
